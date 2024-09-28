@@ -21,13 +21,10 @@ int main() // this is the function titled "main"
     cout << "#                                                                            #" << endl;
     cout << "##############################################################################" << endl;
 
-    
-
 return 0; // all programs must end with return zero
 }
 
 /*     
-
 ##############################################################################
 #                                                                            #
 # Ways to access the Task Manager on your Windows computer:                  #
@@ -42,5 +39,4 @@ return 0; // all programs must end with return zero
 
 [1] + Done                       "/usr/bin/gdb" --interpreter=mi --tty=${DbgTerm} 0<"/tmp/Microsoft-MIEngine-In-lf4beyyt.2f5" 1>"/tmp/Microsoft-MIEngine-Out-gmew2xdu.kdk"
 @Azrafdabomb ➜ /workspaces/lab-1-cout-statements-Azrafdabomb (main) $ 
-
 */
