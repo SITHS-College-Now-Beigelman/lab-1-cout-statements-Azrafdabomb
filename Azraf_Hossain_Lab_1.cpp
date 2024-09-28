@@ -6,7 +6,7 @@
 
 using namespace std; // Shortens Cout statments
 
-int main() // this is the function titled "main"
+int main() // this is the required function titled "main"
 { //Starting bracket for the code
 
     cout << "##############################################################################" << endl; // endl; is used to create a newline, moves the cursor to the next line
